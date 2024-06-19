@@ -1,2 +1,2 @@
 # project_organizer
-Hole Project Organizer
+General Project Organizer
